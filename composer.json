@@ -1,0 +1,10 @@
+{
+    "require": {
+        "slim/slim": "4.0",
+        "slim/psr7": "^1.6",
+        "jenssegers/blade": "^1.4",
+        "php-di/php-di": "^6.4",
+        "illuminate/database": "^8.83",
+        "monolog/monolog": "^2.10"
+    }
+}
